@@ -1,14 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-03-03T01:03:00.618Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="WhaaboO3T94x2Iljyk_T" version="23.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-03T01:05:07.408Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="x7rwNZTl7Fz75FeWcKUf" version="23.1.8" type="github">
   <diagram name="第 1 页" id="45RJ51b_TgAMtPwBoCNO">
     <mxGraphModel dx="1242" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gTTwXfq5UswRLNKwnuzx-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gTTwXfq5UswRLNKwnuzx-18" target="gTTwXfq5UswRLNKwnuzx-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gTTwXfq5UswRLNKwnuzx-18" value="Offline Explorer" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="60" y="40" width="120" height="80" as="geometry" />
+        <mxCell id="gTTwXfq5UswRLNKwnuzx-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gTTwXfq5UswRLNKwnuzx-36" target="gTTwXfq5UswRLNKwnuzx-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="80" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="gTTwXfq5UswRLNKwnuzx-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gTTwXfq5UswRLNKwnuzx-19" target="gTTwXfq5UswRLNKwnuzx-20">
           <mxGeometry relative="1" as="geometry" />
@@ -34,26 +33,23 @@
         <mxCell id="gTTwXfq5UswRLNKwnuzx-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gTTwXfq5UswRLNKwnuzx-27" target="gTTwXfq5UswRLNKwnuzx-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gTTwXfq5UswRLNKwnuzx-27" value="many websites..." style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="540" y="440" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="gTTwXfq5UswRLNKwnuzx-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gTTwXfq5UswRLNKwnuzx-29" target="gTTwXfq5UswRLNKwnuzx-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gTTwXfq5UswRLNKwnuzx-29" value="many apps..." style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="540" y="585" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="gTTwXfq5UswRLNKwnuzx-31" value="third-party tool" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="580" width="120" height="80" as="geometry" />
+        <mxCell id="gTTwXfq5UswRLNKwnuzx-27" value="your favourite on app/website" style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="540" y="430" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="gTTwXfq5UswRLNKwnuzx-33" value="trafilatura" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="260" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gTTwXfq5UswRLNKwnuzx-34" value="extension" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gTTwXfq5UswRLNKwnuzx-34" value="extension&lt;br&gt;&lt;br&gt;third-party tool" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="440" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gTTwXfq5UswRLNKwnuzx-35" value="telethon" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gTTwXfq5UswRLNKwnuzx-36" value="many websites..." style="label;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;spacingLeft=0;spacingBottom=4;imageAlign=center;imageVerticalAlign=top;image=img/clipart/Gear_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gTTwXfq5UswRLNKwnuzx-38" value="Offline Explorer" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
